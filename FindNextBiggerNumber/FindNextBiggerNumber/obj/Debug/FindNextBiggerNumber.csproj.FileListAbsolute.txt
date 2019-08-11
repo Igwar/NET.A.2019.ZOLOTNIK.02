@@ -1,0 +1,6 @@
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.dll
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.pdb
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csproj.CoreCompileInputs.cache
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.dll
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.pdb
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csprojResolveAssemblyReference.cache
