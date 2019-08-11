@@ -1,0 +1,8 @@
+D:\Курсы епам\FindNthRoot\FindNthRoot\bin\Debug\netstandard1.4\FindNthRoot.deps.json
+D:\Курсы епам\FindNthRoot\FindNthRoot\bin\Debug\netstandard1.4\FindNthRoot.dll
+D:\Курсы епам\FindNthRoot\FindNthRoot\bin\Debug\netstandard1.4\FindNthRoot.pdb
+D:\Курсы епам\FindNthRoot\FindNthRoot\obj\Debug\netstandard1.4\FindNthRoot.csprojResolveAssemblyReference.cache
+D:\Курсы епам\FindNthRoot\FindNthRoot\obj\Debug\netstandard1.4\FindNthRoot.csproj.CoreCompileInputs.cache
+D:\Курсы епам\FindNthRoot\FindNthRoot\obj\Debug\netstandard1.4\FindNthRoot.AssemblyInfo.cs
+D:\Курсы епам\FindNthRoot\FindNthRoot\obj\Debug\netstandard1.4\FindNthRoot.dll
+D:\Курсы епам\FindNthRoot\FindNthRoot\obj\Debug\netstandard1.4\FindNthRoot.pdb
