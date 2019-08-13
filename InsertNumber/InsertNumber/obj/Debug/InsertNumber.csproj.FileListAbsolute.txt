@@ -1,6 +1,9 @@
 D:\Курсы епам\InsertNumber\InsertNumber\bin\Debug\InsertNumber.dll
 D:\Курсы епам\InsertNumber\InsertNumber\bin\Debug\InsertNumber.pdb
 D:\Курсы епам\InsertNumber\InsertNumber\obj\Debug\InsertNumber.csprojResolveAssemblyReference.cache
-D:\Курсы епам\InsertNumber\InsertNumber\obj\Debug\InsertNumber.csproj.CoreCompileInputs.cache
 D:\Курсы епам\InsertNumber\InsertNumber\obj\Debug\InsertNumber.dll
 D:\Курсы епам\InsertNumber\InsertNumber\obj\Debug\InsertNumber.pdb
+D:\Курсы епам\InsertNumber\InsertNumber\bin\Debug\nunit.framework.dll
+D:\Курсы епам\InsertNumber\InsertNumber\bin\Debug\nunit.framework.pdb
+D:\Курсы епам\InsertNumber\InsertNumber\bin\Debug\nunit.framework.xml
+D:\Курсы епам\InsertNumber\InsertNumber\obj\Debug\InsertNumber.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+D:\Курсы епам\InsertNumber\InsertNumberTests\bin\Debug\InsertNumberTests.dll
+D:\Курсы епам\InsertNumber\InsertNumberTests\bin\Debug\InsertNumberTests.pdb
+D:\Курсы епам\InsertNumber\InsertNumberTests\bin\Debug\InsertNumber.dll
+D:\Курсы епам\InsertNumber\InsertNumberTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Курсы епам\InsertNumber\InsertNumberTests\bin\Debug\InsertNumber.pdb
+D:\Курсы епам\InsertNumber\InsertNumberTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Курсы епам\InsertNumber\InsertNumberTests\obj\Debug\InsertNumberTests.csprojResolveAssemblyReference.cache
+D:\Курсы епам\InsertNumber\InsertNumberTests\obj\Debug\InsertNumberTests.csproj.CoreCompileInputs.cache
+D:\Курсы епам\InsertNumber\InsertNumberTests\obj\Debug\InsertNumberTests.dll
+D:\Курсы епам\InsertNumber\InsertNumberTests\obj\Debug\InsertNumberTests.pdb
