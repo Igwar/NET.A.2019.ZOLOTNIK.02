@@ -8,3 +8,6 @@ D:\Курсы епам\InsertNumber\InsertNumberTests\obj\Debug\InsertNumberTest
 D:\Курсы епам\InsertNumber\InsertNumberTests\obj\Debug\InsertNumberTests.csproj.CoreCompileInputs.cache
 D:\Курсы епам\InsertNumber\InsertNumberTests\obj\Debug\InsertNumberTests.dll
 D:\Курсы епам\InsertNumber\InsertNumberTests\obj\Debug\InsertNumberTests.pdb
+D:\Курсы епам\InsertNumber\InsertNumberTests\bin\Debug\nunit.framework.dll
+D:\Курсы епам\InsertNumber\InsertNumberTests\bin\Debug\nunit.framework.pdb
+D:\Курсы епам\InsertNumber\InsertNumberTests\bin\Debug\nunit.framework.xml
