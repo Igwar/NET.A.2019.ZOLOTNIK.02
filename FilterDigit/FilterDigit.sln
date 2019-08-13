@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterDigit", "FilterDigit\FilterDigit.csproj", "{54DD9C87-ACBD-479F-89BD-A80B6D322A49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterDigitTests", "FilterDigitTests\FilterDigitTests.csproj", "{D7D251D8-C570-472F-8D01-4C6E2A71DFCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{54DD9C87-ACBD-479F-89BD-A80B6D322A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DD9C87-ACBD-479F-89BD-A80B6D322A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DD9C87-ACBD-479F-89BD-A80B6D322A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D251D8-C570-472F-8D01-4C6E2A71DFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D251D8-C570-472F-8D01-4C6E2A71DFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D251D8-C570-472F-8D01-4C6E2A71DFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D251D8-C570-472F-8D01-4C6E2A71DFCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

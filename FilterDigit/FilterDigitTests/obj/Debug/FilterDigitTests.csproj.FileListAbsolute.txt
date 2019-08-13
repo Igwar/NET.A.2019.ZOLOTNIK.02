@@ -1,0 +1,10 @@
+D:\Курсы епам\FilterDigit\FilterDigitTests\bin\Debug\FilterDigitTests.dll
+D:\Курсы епам\FilterDigit\FilterDigitTests\bin\Debug\FilterDigitTests.pdb
+D:\Курсы епам\FilterDigit\FilterDigitTests\bin\Debug\FilterDigit.dll
+D:\Курсы епам\FilterDigit\FilterDigitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Курсы епам\FilterDigit\FilterDigitTests\bin\Debug\FilterDigit.pdb
+D:\Курсы епам\FilterDigit\FilterDigitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Курсы епам\FilterDigit\FilterDigitTests\obj\Debug\FilterDigitTests.csprojResolveAssemblyReference.cache
+D:\Курсы епам\FilterDigit\FilterDigitTests\obj\Debug\FilterDigitTests.csproj.CoreCompileInputs.cache
+D:\Курсы епам\FilterDigit\FilterDigitTests\obj\Debug\FilterDigitTests.dll
+D:\Курсы епам\FilterDigit\FilterDigitTests\obj\Debug\FilterDigitTests.pdb

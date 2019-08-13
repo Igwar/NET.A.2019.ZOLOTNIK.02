@@ -8,7 +8,7 @@ namespace FilterDigit
 {
     public class filtr
     {
-        public static void findnimber(int number, ref List<int> numbers)
+        public static List<int> findnimber(int number, ref List<int> numbers)
         {
             List<int> result = new List<int>();
 
@@ -27,7 +27,10 @@ namespace FilterDigit
                 }
 
             }
+            
             numbers = result;
+           
+                return numbers;
 
 
         }

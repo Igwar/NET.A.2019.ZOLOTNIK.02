@@ -3,3 +3,4 @@ D:\Курсы епам\FilterDigit\FilterDigit\bin\Debug\FilterDigit.pdb
 D:\Курсы епам\FilterDigit\FilterDigit\obj\Debug\FilterDigit.csproj.CoreCompileInputs.cache
 D:\Курсы епам\FilterDigit\FilterDigit\obj\Debug\FilterDigit.dll
 D:\Курсы епам\FilterDigit\FilterDigit\obj\Debug\FilterDigit.pdb
+D:\Курсы епам\FilterDigit\FilterDigit\obj\Debug\FilterDigit.csprojResolveAssemblyReference.cache
