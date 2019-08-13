@@ -1,0 +1,10 @@
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\bin\Debug\FindNextBiggerNumberTests.dll
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\bin\Debug\FindNextBiggerNumberTests.pdb
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\bin\Debug\FindNextBiggerNumber.dll
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\bin\Debug\FindNextBiggerNumber.pdb
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\obj\Debug\FindNextBiggerNumberTests.csprojResolveAssemblyReference.cache
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\obj\Debug\FindNextBiggerNumberTests.csproj.CoreCompileInputs.cache
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\obj\Debug\FindNextBiggerNumberTests.dll
+D:\Курсы епам\FindNextBiggerNumber\FindNextBiggerNumberTests\obj\Debug\FindNextBiggerNumberTests.pdb
